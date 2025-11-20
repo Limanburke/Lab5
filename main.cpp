@@ -3,6 +3,7 @@
 #include <thread>
 #include <chrono>
 #include <syncstream>
+#include <string>
 
 /*
 ¹.20
